@@ -170,6 +170,15 @@ button:hover{
         background: url("../images/bg-header-mobile.png") no-repeat;
         background-size: cover;
     }
+    .main-heading{
+        padding: 0 40px;
+        font-size: 2em;
+    }
+    h2{
+        width: 85%;
+        font-size: 1.74em;
+        margin: auto;
+    }
     .intro p, .intro-text{
         width: 85%;
     }
@@ -300,5 +309,8 @@ button:hover{
     body{
         max-width: 1366px;
         margin: auto;
+    }
+    .bottom-section{
+        width: 100vw;
     }
 }
