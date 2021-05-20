@@ -307,10 +307,9 @@ button:hover{
 /* Extra Large Screens */
 @media(min-width: 1200px){
     body{
-        max-width: 1366px;
-        margin: auto;
-    }
-    .bottom-section{
         width: 100vw;
+    }
+    .intro{
+        background-size: contain;
     }
 }
