@@ -224,6 +224,7 @@ button:hover{
     }
     .supercharge-contents p{
         padding-bottom: 40px;
+        font-size: 1.01em;
     }
     .logos{
         display: block;
